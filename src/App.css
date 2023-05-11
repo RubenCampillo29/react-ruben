@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+
+.App-content {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 16px;
+}
+
+
+.botton{
+
+  font-size: 30px;
+
+
+
+}
+
+h1{
+
+
+justify-content: center;
+
+}
+
+
+a{
+
+ color: rgb(151, 145, 80);
+ font-size: 32px;
+ margin: 5px;
+ display: block;
+ border: solid;
+ height: 40px;
+ width: 350px;
+ align-items: center;
+ text-align: center;
+
+
+}
+

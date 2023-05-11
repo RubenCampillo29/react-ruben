@@ -1,0 +1,30 @@
+.Gif {
+border: 1px solid #b52a2a;
+border-radius: 6px;
+display: flex;
+width: 50%;
+height: 40%;
+margin: 16px;
+padding: 32px;
+flex-direction: column;
+align-items: center;
+
+
+}
+
+.Gif h4{
+
+margin: 0;
+
+}
+
+
+
+
+.Gif img{
+
+object-fit: contain;
+width: 200px;
+
+
+}
